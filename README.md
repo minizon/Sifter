@@ -17,7 +17,7 @@
 scipy.optimize.fmin_l_bfgs_b  单张图的优化 自定义Evaluator封装K.function
 3. [titu1994](https://github.com/titu1994/Neural-Style-Transfer)
 4. [awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
-5. [misgod]https://github.com/misgod/fast-neural-style-keras
+5. [misgod](https://github.com/misgod/fast-neural-style-keras)
 layer.add_loss(Regularizer)
 
 ###examples in tf
