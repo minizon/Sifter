@@ -9,9 +9,9 @@
 
 
 
-##Style Transfer
+## Style Transfer
 
-###examples in keras
+### examples in keras
 1. [keras style transfer](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
 2. [keras doodle](https://github.com/keras-team/keras/blob/master/examples/neural_doodle.py)
 scipy.optimize.fmin_l_bfgs_b  单张图的优化 自定义Evaluator封装K.function
@@ -20,13 +20,13 @@ scipy.optimize.fmin_l_bfgs_b  单张图的优化 自定义Evaluator封装K.funct
 5. [misgod](https://github.com/misgod/fast-neural-style-keras)
 layer.add_loss(Regularizer)
 
-###examples in tf
+### examples in tf
 1. [lengstrom fast](https://github.com/lengstrom/fast-style-transfer)
 
 2. [anishathalye](https://github.com/anishathalye/neural-style/)
 
 
-###examples in torch/pytorch
+### examples in torch/pytorch
 1. [jcjohnson fast](https://github.com/jcjohnson/fast-neural-style)
 2. [NVIDIA](https://github.com/NVIDIA/FastPhotoStyle)
 3. [luanfujun](https://github.com/luanfujun/deep-photo-styletransfer)
@@ -37,5 +37,5 @@ layer.add_loss(Regularizer)
 6. [xunhuang1995](https://github.com/xunhuang1995/AdaIN-style)
 arbitrary style transfer
 
-###reviews
+### reviews
 1. [CortexFoundation](https://github.com/CortexFoundation/StyleTransferTrilogy)
