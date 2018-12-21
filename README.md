@@ -15,7 +15,7 @@
 1. [keras style transfer](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
 2. [keras doodle](https://github.com/keras-team/keras/blob/master/examples/neural_doodle.py)
 scipy.optimize.fmin_l_bfgs_b  单张图的优化 自定义Evaluator封装K.function
-3. [titu1994](https://github.com/titu1994/Neural-Style-Transfer)
+3. [titu1994](https://github.com/titu1994/Neural-Style-Transfer) 单图的优化, color preservation, mask in content and style image
 4. [awentzonline/keras-rtst](https://github.com/awentzonline/keras-rtst)
 5. [misgod](https://github.com/misgod/fast-neural-style-keras)
 layer.add_loss(Regularizer)
